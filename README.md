@@ -59,7 +59,3 @@ The `.ipa` is written to `xtool/`.
 ## Author
 
 Created and maintained by ajihgosling (my insta handle lol if anything can find me there). Designed, directed, and tested build by build on a real camera by the author, with AI assistance (cs I dont know Swift lol) for writing the Swift code.
-
-## License
-
-Copyright (c) 2026 ajihgosling See `LICENSE`.
